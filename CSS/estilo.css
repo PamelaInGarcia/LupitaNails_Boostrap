@@ -1,0 +1,28 @@
+*{
+    font-family: 'Caveat', cursive;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+    margin-top: 20px;
+} 
+
+body{
+    /*background-color:#cdbdec;*/
+    background: linear-gradient(to bottom, #ffffcc 0%, #ffcccc 100%);
+    overflow-x: hidden;
+}
+
+.titulo{
+    font-size:  50px;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #cc0066;
+    text-decoration:rgb(165, 161, 165) underline;
+}
+.menu{
+    display: flex;
+    list-style-type: none;
+    font-size: xx-large;
+    color:#800033 ;
+}
